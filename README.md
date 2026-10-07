@@ -2,7 +2,7 @@
 
 We have 22 challenges for you to complete as part of your prep work. 
 
-To ensure you are ready for day one of training, feel confident in fundamentals of JavaScript and with GitHub, we have presented the  challenges as assignment through [GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom). This allows us to check your work, give feedback and any assistance before you starting the training. 
+To ensure you are ready for day one of training, feel confident in fundamentals of JavaScript and with GitHub, we have prepared some challenges for you. Please follow the Git & GitHub prep so you will be able to clone this repo to your machine, or just copy the challenges to an online IDE. Happy coding!!
 
 ## How to start 
 You will learn about how to use GitHub during the training, so to complete these 22 challenges you will need to use and external free code editor like, [Replit](https://replit.com/) or [Programiz ](https://www.programiz.com/javascript/online-compiler/) or the JS file in Codepen (which are also three online) or you can use VSCode (which you will need to have downloaded as part of the environment setup).
@@ -30,7 +30,7 @@ For Replit, the challenges are already copied over in the links, and you only ne
     </a>
 </div>
   
-You can use Google and your notes to help you, however we do not except the use of ChatGBT, as ChatGBT is not useful for your own development. We recommend [W3Schools](https://www.w3schools.com/) to review JavaScript documentation, which can be used to help solve these challenges.
+You can use Google and your notes to help you, however we do not except the use of ChatGPT, as ChatGPT is not useful for your own development. We recommend [W3Schools](https://www.w3schools.com/) to review JavaScript documentation, which can be used to help solve these challenges.
 
 ### View the Loom video below on how to use GitHub Codespaces in VSCode
 We advise using an external code editor, however if you feel confident in VSCode, you might want to try working with GitHub Codespaces. 
@@ -59,4 +59,4 @@ View the video below to check that your tests are passing.
 ## Help
 By the end of completing these challenges, you should feel confident in creating different data type variables, defining a function, and using basic array in-built functions.
 
-For any technical help on the above, book a meeting with Claire, our Admissions Consultant via the link [here](https://lafosseacademy.appointlet.com/s/prep-work-help/claire-2).
+For any technical help on the above, send Monia a DM on Slack.
