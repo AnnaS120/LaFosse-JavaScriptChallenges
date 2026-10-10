@@ -16,6 +16,18 @@
 // Write your function here
 
 function raffleWinners(array){
+   const winners = [];
+   for (let i = 0; i < array.length; i++) {
+    // Check if BOTH the seat number (i) and the ticket number (array[i]) are odd
+    if (i % 2 !== 0 && array[i] % 2 !== 0) {
+      winners.push({
+        seat: i,
+        raffleTicket: array[i]
+      });
+    }
+  }
+
+  return winners;
 
     }
     
@@ -43,9 +55,16 @@ function raffleWinners(array){
     // It should return a number showing the total cost of ordering one of each item per guest! 
     
     function orderFood(food, guests){
+      // Get an array of all item prices from the food object
+      const prices = Object.values(food);
+      // Sum up all the prices for one guest
+      let costPerGuest = 0;
+      for (let price of prices) {
+         costPerGuest += price;}
+         // Multiply by total guests
+         return costPerGuest * guests;}
    
-
-    }
+    
     
     
     console.log(orderFood({ brownies: 2, cupCakes: 7}, 3))
